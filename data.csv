@@ -1,0 +1,41 @@
+Movie,Company,Year,DomesticBox,GlobalBox,Rating
+Toy Story 3,Pixar,2010,427.1,1094.6,0.917
+Finding Nemo,Pixar,2003,457.2,1185.6,0.9
+Up,Pixar,2009,317.5,791.7,0.907
+The Incredibles,Pixar,2004,341.9,825.9,0.89
+Toy Story,Pixar,1995,358.1,675.6,0.91
+Toy Story 2,Pixar,1999,394.6,778.7,0.9
+Monsters Inc.,Pixar,2001,367.8,760,0.875
+Shrek,DreamWorks,2001,384.9,696.7,0.845
+WALL¡¤E,Pixar,2008,253.3,589.5,0.905
+How To Train Your Dragon,DreamWorks,2010,224.1,509.1,0.9
+Ratatouille,Pixar,2007,243.6,736.5,0.885
+Shrek 2,DreamWorks,2004,577.3,1203.4,0.82
+Inside Out,Pixar,2015,342.55,690.05,0.93
+Kung Fu Panda,DreamWorks,2008,243.6,714.6,0.825
+A Bug's Life,Pixar,1998,281.8,629.3,0.82
+Brave,Pixar,2012,242,549.7,0.76
+Cars,Pixar,2006,301.3,570.1,0.74
+How To Train Your Dragon 2,DreamWorks,2014,177,618.7,0.87
+Monsters University,Pixar,2013,268,742.2,0.775
+Madagascar 3: Europe's Most Wanted,DreamWorks,2012,220.9,756.8,0.74
+Monsters vs Aliens,DreamWorks,2009,214.4,412.5,0.695
+The Croods,DreamWorks,2013,186.8,586.3,0.7
+Antz,DreamWorks,1998,157.5,298,0.86
+Shrek Forever After,DreamWorks,2010,246,774.6,0.625
+Madagascar: Escape 2 Africa,DreamWorks,2008,203.8,682.9,0.66
+MegaMind,DreamWorks,2010,152.7,331.3,0.82
+Madagascar,DreamWorks,2005,245.2,675.6,0.61
+Kung Fu Panda 2,DreamWorks,2011,168.9,681.3,0.82
+Over the Hedge,DreamWorks,2006,191.6,414.9,0.72
+Puss in Boots,DreamWorks,2011,152.7,568.4,0.765
+Shark Tale,DreamWorks,2004,210.3,479.9,0.475
+Shrek the Third,DreamWorks,2007,380.8,942.7,0.51
+Home,DreamWorks,2015,174.11,367.1,0.58
+Cars 2,Pixar,2011,195.7,573.3,0.52
+Bee Movie,DreamWorks,2007,149.4,339.4,0.57
+Mr. Peabody & Sherman,DreamWorks,2014,111.2,272.8,0.735
+Rise of the Guardians,DreamWorks,2012,105.6,310.2,0.74
+Penguins of Madgascar,DreamWorks,2014,82.8,367,0.715
+Flushed Away,DreamWorks,2006,79.6,219.3,0.71
+Turbo,DreamWorks,2013,82.8,281.7,0.655

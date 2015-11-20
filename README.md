@@ -8,7 +8,7 @@ Expand on the readme questions below to provide an overview of the goals, backgr
 
 ## Introduction
 
-This is a final project for the [Interacting with Data](https://github.com/Brown-BIOL2430-S04-Fall2015/syllabus) seminar in fall 2015. This project (a very brief, ie 1-2 sentence, overview of the project)...
+This is a final project for the [Interacting with Data](https://github.com/Brown-BIOL2430-S04-Fall2015/syllabus) seminar in fall 2015. In this project I want to design a visualization comparing 40 animations produced by Pixar and Dreamwork from several different perspectives such as Year, rating, domestic and global box office. Moreover, I am hoping to make this visualization vivid by including logos/characters in animations. 
 
 To view this project, ... (embed visualization here or provide instructions on how to view the project).
 
@@ -16,17 +16,24 @@ To view this project, ... (embed visualization here or provide instructions on h
 
 Description of data...
 
-- Data source (simulated/ published/ unpublished?)
-- Data structure - what are the variables? How are they organized? What states can they have
+- Data source
+The data come from [Ultimate Movie Ranking](http://www.ultimatemovierankings.com/pixar-movies-vs-dreamworks-movies/).
+- Data structure - 
+The dataset contains 40 Movies, with their year, company, adjusted domestic and global box office, box office rank by year, rating, and oscar nomination/win. The data is organized in a table with each movie occupying a row. 
 
 ## Background
+Inspired by these example
+![alt tag](http://www.slate.com/content/dam/slate/articles/arts/culturebox/2013/06/130628_criticsPixarRatings.jpg.CROP.original-original.jpg)
 
-Examples of previous visualizations of similar data or processes, if any exist... Include links or add images to markdown document... how were data mapped to aesthetics in these previous approaches? Was there filtering?
+![alt tag]
+(http://imgfave-herokuapp-com.global.ssl.fastly.net/image_cache/138589212297393.jpg)
 
-Shortcomings of previous approaches, or potentially interesting gaps between previous approaches...
+In all these examples, rating of animations are plotted against year of production. In addition, points are connected by either straight lines/smoothed curves to show tendency. What attracted me most is that the logo/main character of the animation are incorporated into the animation. (Although this makes visualization less scientific, it is more fun to look at!)
+
+Shortcoming of these visualization is that firstly, they only plotted rating against years. Secondly, they are static and I believe that the pictures of logo/main characters and pasted by hand onto the visualization, so making other similar plots would be troublesome(Imagine I want to make other plots of adjusted global and domestic box office vs year for 40 movies, I will have to manually paste 2*40 images!)
 
 ## This project
-
+ 
 ### Mapping of data to aesthetics
 
 How will aesthetic attributes ( X / Y / color / shape / size /texture / etc ) will be mapped to the data?
@@ -56,5 +63,3 @@ Was the new visualization successful at providing insight that was not possible 
 What are the main limitations of new approach?
 
 What are future directions this could go in?
-
-
