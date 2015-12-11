@@ -4,11 +4,11 @@
 
 This is a final project for the [Interacting with Data](https://github.com/Brown-BIOL2430-S04-Fall2015/syllabus) seminar in fall 2015. In this project I want to design a visualization comparing 40 animations produced by Pixar and Dreamwork from several different perspectives such as year, rating, domestic and global box office. Moreover, I am hoping to make this visualization vivid by including logos/characters in animations. 
 
-To view this project, ... (embed visualization here or provide instructions on how to view the project).
+Click [here](https://rawgit.com/XiaojunMENG/finalproject/master/animations.html) to view this project.
 
 ## The data
 
-Description of data...
+Description of data
 
 - Data source
 The data come from [Ultimate Movie Ranking](http://www.ultimatemovierankings.com/pixar-movies-vs-dreamworks-movies/).
